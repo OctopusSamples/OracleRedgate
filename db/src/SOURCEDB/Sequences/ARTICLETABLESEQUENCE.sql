@@ -1,0 +1,1 @@
+CREATE SEQUENCE sourcedb.articletablesequence MAXVALUE 2147568;

@@ -1,0 +1,1 @@
+Select 'Test' as MyValue from dual;

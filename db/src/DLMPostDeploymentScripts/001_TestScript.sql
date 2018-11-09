@@ -1,1 +1,1 @@
-Select "Test" as VALUE from dual;
+Select 'Test' as VALUE from dual;

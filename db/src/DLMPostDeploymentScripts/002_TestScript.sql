@@ -1,1 +1,1 @@
-Select COLUMN_DOES_NOT_EXIST from dual;
+Select 'Test2' as MyCol from dual;
